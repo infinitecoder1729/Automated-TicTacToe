@@ -1,7 +1,6 @@
 <div align=center><h1>Automated TicTacToe</h1> </div>
 
-<div align="center"><img src="https://github.com/infinitecoder1729/Automated-TicTacToe/assets/77016507/ef4f067e-df6c-4f2d-a40e-ab3b10a051a2"></div>
-
+<div align="center"><img src="https://github.com/infinitecoder1729/Automated-TicTacToe/assets/77016507/0ececa77-3c0c-4236-b85d-9042eedc10f7"></div>
 
 A Program which allows user to play tic-tac-toe against the computer. The project was completed as a part of <a href="">CS50 AI course</a>. The Files runner.py (including but not limited to GUI implementation) and OpenSans-Regular.ttf was provided by the instructing team, however tictactoe.py which contains the logic which the computer uses has been implemented by me (@infinitecoder1729).
 
@@ -57,5 +56,5 @@ This way, the minimax(board) function allows the AI player to choose the best po
 
 ## Working :
 
-https://github.com/infinitecoder1729/Automated-TicTacToe/assets/77016507/addc9e3c-1526-47ea-8785-4096dd12ec7f
+https://github.com/infinitecoder1729/Automated-TicTacToe/assets/77016507/77edcc06-4c05-46ad-9a41-e80c35b76882
 
